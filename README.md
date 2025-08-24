@@ -9,9 +9,6 @@ I currently work in the **Build, Test, and Release (BTR)** team at **National In
 </div>
 
 <details>
-<summary>🐍 Contribution Snake Animation</summary>
-
-> **Note**: Snake animation will be generated automatically once GitHub Actions workflow is set up.
 
 ![Snake Animation](https://raw.githubusercontent.com/Bandi-Rahul/Bandi-Rahul/output/github-contribution-grid-snake.svg)
 
