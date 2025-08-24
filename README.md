@@ -65,20 +65,30 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 ## 🎯 Professional Highlights
 
 ### 🔥 Core Competencies
-- **Full-Stack Development**: End-to-end web application development
-- **Data Analysis**: Advanced Python data manipulation and visualization
-- **Problem Solving**: Strong algorithmic thinking and optimization
-- **Version Control**: Expert Git workflow and collaborative development
-- **Database Design**: Efficient data modeling and query optimization
+<div align="center">
+
+| Skill | Level | Description |
+|:------|:-----:|:------------|
+| 🌐 **Full-Stack Development** | ![Expert](https://img.shields.io/badge/Level-Expert-brightgreen?style=flat-square) | End-to-end web application development |
+| 📊 **Data Analysis** | ![Advanced](https://img.shields.io/badge/Level-Advanced-green?style=flat-square) | Python data manipulation and visualization |
+| 🧩 **Problem Solving** | ![Expert](https://img.shields.io/badge/Level-Expert-brightgreen?style=flat-square) | Algorithmic thinking and optimization |
+| 🔄 **Version Control** | ![Advanced](https://img.shields.io/badge/Level-Advanced-green?style=flat-square) | Expert Git workflow and collaboration |
+| 🗄️ **Database Design** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow?style=flat-square) | Data modeling and query optimization |
+
+</div>
 
 ### 💼 Project Categories
-```
-🌐 Web Development     ████████████░░░  80%
-🐍 Python Development ████████████░░░  85%
-📊 Data Analysis       ███████████░░░░  75%
-🎨 UI/UX Design        ██████░░░░░░░░░  45%
-🔧 DevOps & Tools      ███████░░░░░░░░  55%
-```
+<div align="center">
+
+| Technology | Proficiency | Projects |
+|:----------:|:-----------:|:--------:|
+| 🌐 **Web Development** | ![80%](https://progress-bar.dev/80?color=61dafb&width=200) | 8+ Projects |
+| 🐍 **Python Development** | ![85%](https://progress-bar.dev/85?color=3776ab&width=200) | 12+ Projects |
+| 📊 **Data Analysis** | ![75%](https://progress-bar.dev/75?color=ff6b6b&width=200) | 6+ Projects |
+| 🎨 **UI/UX Design** | ![45%](https://progress-bar.dev/45?color=f39c12&width=200) | 4+ Projects |
+| 🔧 **DevOps & Tools** | ![55%](https://progress-bar.dev/55?color=2ecc71&width=200) | 5+ Projects |
+
+</div>
 
 ### 🏆 Key Achievements
 - 🎓 **Self-taught Developer**: Mastered multiple programming languages independently
@@ -123,12 +133,16 @@ const skills = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://bandi-rahul.github.io/portfolio/)
 
 ## 📊 Weekly Development Breakdown
-```text
-Python       12 hrs 30 mins  ████████████████░░░░░   65.4%
-JavaScript    4 hrs 15 mins  ████████░░░░░░░░░░░░░   22.3%
-HTML/CSS      1 hr 45 mins   ███░░░░░░░░░░░░░░░░░░    9.2%
-SQL           35 mins        ██░░░░░░░░░░░░░░░░░░░    3.1%
-```
+<div align="center">
+
+| Language | Time Spent | Percentage | Activity |
+|:--------:|:----------:|:----------:|:--------:|
+| 🐍 **Python** | 12 hrs 30 mins | ![65.4%](https://progress-bar.dev/65?color=3776ab&width=150) | `████████████████░░░░░` |
+| 🟨 **JavaScript** | 4 hrs 15 mins | ![22.3%](https://progress-bar.dev/22?color=f7df1e&width=150) | `████████░░░░░░░░░░░░░` |
+| 🎨 **HTML/CSS** | 1 hr 45 mins | ![9.2%](https://progress-bar.dev/9?color=e34c26&width=150) | `███░░░░░░░░░░░░░░░░░░` |
+| 🗃️ **SQL** | 35 mins | ![3.1%](https://progress-bar.dev/3?color=336791&width=150) | `██░░░░░░░░░░░░░░░░░░░` |
+
+</div>
 
 ## 🎯 Current Focus
 - Building responsive web applications with Python backends
