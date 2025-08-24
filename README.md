@@ -25,13 +25,13 @@ I'm a passionate developer with expertise in Python, JavaScript, HTML, and CSS. 
 Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.github.io/portfolio/)
 
 ## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandi-Rahul&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandi-Rahul&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=radical&include_all_commits=true&cache_seconds=1800)
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandi-Rahul&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandi-Rahul&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bandi-479272272/)
