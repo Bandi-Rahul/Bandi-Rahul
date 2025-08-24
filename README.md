@@ -1,19 +1,23 @@
-# Hi there, I'm Rahul Bandi! 👋
-
 ## 🚀 About Me
-I'm a passi> **🔍 What's the difference?**
-> - **🏆 Trophies**: Comprehensive achievement display with frames and backgrounds
-> - **🏅 Achievements**: Cleaner, frameless display focusing on specific accomplishments
+Hi, I'm Rahul - a **software technician**, **curious engineer**, and **lifelong tinkerer**.
+
+I currently work in the **Build, Test, and Release (BTR)** team at **National Instruments** (now part of **Emerson**), where I ensure that driver releases run smoothly and reliably. Whether it's improving CI workflows, triaging ATS events, or deep diving into flaky test failures, I love solving problems that make life easier for teams downstream.
+
+� **My journey so far:**
+- **Took ownership** of BTR-managed drivers and release readiness efforts
+- **Helped onboard and guide** new teammates, ensuring knowledge flows across the team
+- **Built Python tools and Selenium automation** to streamline repetitive tasks (because why do something manually twice, right? 😉)
+- **Proud CanSat finalist** with hands-on IoT experience - my roots are in building things that fly (literally) and work under pressure
+
+**What drives me?** Clarity, curiosity, and continuous improvement. I enjoy learning from others, mentoring where I can, and constantly challenging myself to become a better engineer and teammate.
+
+If you're into automation, release engineering, Python scripting, or even CanSat competitions - let's connect and chat! Always happy to share, learn, and collaborate. 🚀
 
 ## 🔥 Streak Stats
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Streak"/>
-</div>
 
 ## 💻 Most Used Languages
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandi-Rahul&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-</div>te developer with expertise in Python, JavaScript, HTML, and CSS. I love creating innovative solutions and building beautiful, functional web applications.
 
 ## �‍💻 Quick Overview
 ```
@@ -167,11 +171,14 @@ const skills = {
 </div>
 
 ## 🎯 Current Focus
-- Building responsive web applications with Python backends
+- **Release Engineering**: Ensuring smooth and reliable driver releases at National Instruments
+- **CI/CD Optimization**: Improving build, test, and release workflows for better efficiency
+- **Test Automation**: Building Python tools and Selenium automation for streamlined processes
+- **Problem Solving**: Deep diving into flaky test failures and ATS event triaging
+- **Continuous Learning**: Exploring advanced automation techniques and release engineering best practices
 - Developing data analysis projects with Python
 - Learning advanced Python frameworks (Django, FastAPI)
 - Contributing to open-source Python projects
-- Improving problem-solving skills with algorithms and data structures
 
 ---
 ⭐️ From [Bandi-Rahul](https://github.com/Bandi-Rahul)
