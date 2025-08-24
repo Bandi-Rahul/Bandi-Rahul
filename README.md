@@ -66,7 +66,24 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 <details>
 <summary>📈 Advanced GitHub Metrics</summary>
 
-![Metrics](https://metrics.lecoq.io/Bandi-Rahul?template=classic&config.timezone=Asia%2FKolkata&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&followup=false&people=false&lines=false&projects=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&stargazers=false&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&discussions=false&fortune=false&gists=false&introduction=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&music=false&music.provider=apple&music.mode=recent&music.limit=4&music.played.at=false&music.top.type=tracks&posts=false&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&rss=false&rss.source=https%3A%2F%2Fwww.feedforall.com%2Fsample.xml&rss.limit=4&stackoverflow=false&stackoverflow.user=0&stackoverflow.sections=answers-top%2Cquestions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&steam=false&steam.user=76561198407486050&steam.sections=player%2C%20most-played%2C%20recently-played&steam.limit=1&steam.playtime.threshold=2&steam.recent.load=7&steam.achievements.threshold=20&steam.achievements.secrets=true&steam.achievements.ignored=&steam.achievements.limit=2&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&tweets.token=)
+<div align="center">
+
+### 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/Bandi-Rahul?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata)
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bandi-Rahul&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
+
+### 🌟 Contribution Calendar
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+### 📋 Language Analytics
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandi-Rahul&layout=compact&theme=dark&hide_border=true&langs_count=10&exclude_repo=Bandi-Rahul&cache_seconds=1800)
+
+### 💡 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bandi-Rahul&theme=github_dark)
+
+</div>
 
 </details>
 
