@@ -60,13 +60,7 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandi-Rahul&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=Rahul's%20GitHub%20Stats&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-> **� What's the difference?**
-> - **🏆 Trophies**: Comprehensive achievement display with frames and backgrounds
-> - **🏅 Achievements**: Cleaner, frameless display focusing on specific accomplishments
+<img src="https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 ## 📊 Detailed Analytics
 <details>
