@@ -25,9 +25,7 @@ I'm a passionate developer with expertise in Python, JavaScript, HTML, and CSS. 
 Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.github.io/portfolio/)
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bandi-Rahul&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=Rahul's%20GitHub%20Stats&cache_seconds=1800" alt="GitHub Stats" />
-</div>
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandi-Rahul&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=Rahul's%20GitHub%20Stats&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=tokyonight&no-frame=true&column=7)
