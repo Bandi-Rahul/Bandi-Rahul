@@ -3,15 +3,17 @@ Hi, I'm Rahul - a **software technician**, **curious engineer**, and **lifelong 
 
 I currently work in the **Build, Test, and Release (BTR)** team at **National Instruments** (now part of **Emerson**), where I ensure that driver releases run smoothly and reliably. Whether it's improving CI workflows, triaging ATS events, or deep diving into flaky test failures, I love solving problems that make life easier for teams downstream.
 
-� **My journey so far:**
-- **Took ownership** of BTR-managed drivers and release readiness efforts
-- **Helped onboard and guide** new teammates, ensuring knowledge flows across the team
-- **Built Python tools and Selenium automation** to streamline repetitive tasks (because why do something manually twice, right? 😉)
-- **Proud CanSat finalist** with hands-on IoT experience - my roots are in building things that fly (literally) and work under pressure
+## 📈 GitHub Activity Summary
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bandi-Rahul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
 
-**What drives me?** Clarity, curiosity, and continuous improvement. I enjoy learning from others, mentoring where I can, and constantly challenging myself to become a better engineer and teammate.
+<details>
+<summary>🐍 Contribution Snake Animation</summary>
 
-If you're into automation, release engineering, Python scripting, or even CanSat competitions - let's connect and chat! Always happy to share, learn, and collaborate. 🚀
+> **Note**: Snake animation will be generated automatically once GitHub Actions workflow is set up.
+
+![Snake Animation](https://raw.githubusercontent.com/Bandi-Rahul/Bandi-Rahul/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Streak Stats
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Streak"/>
@@ -27,18 +29,6 @@ If you're into automation, release engineering, Python scripting, or even CanSat
 📍 Location: Available for Remote Work
 ⚡ Fun Fact: I debug with print statements and I'm not ashamed!
 ```
-
-## 📈 GitHub Activity Summary
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bandi-Rahul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<details>
-<summary>🐍 Contribution Snake Animation</summary>
-
-> **Note**: Snake animation will be generated automatically once GitHub Actions workflow is set up.
-
-![Snake Animation](https://raw.githubusercontent.com/Bandi-Rahul/Bandi-Rahul/output/github-contribution-grid-snake.svg)
 
 </details>
 
@@ -179,6 +169,8 @@ const skills = {
 - Developing data analysis projects with Python
 - Learning advanced Python frameworks (Django, FastAPI)
 - Contributing to open-source Python projects
+
+If you're into automation, release engineering, Python scripting, or even CanSat competitions - let's connect and chat! Always happy to share, learn, and collaborate. 🚀
 
 ---
 ⭐️ From [Bandi-Rahul](https://github.com/Bandi-Rahul)
