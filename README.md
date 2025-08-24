@@ -66,13 +66,8 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 <details>
 <summary>📈 Advanced GitHub Metrics</summary>
 
-<div align="center">
-
 ### 📊 GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/Bandi-Rahul?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata)
-
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bandi-Rahul&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
 ### 🌟 Contribution Calendar
 ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
@@ -83,14 +78,12 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 ### 💡 Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bandi-Rahul&theme=github_dark)
 
-</div>
 
 </details>
 
 ## 🎯 Professional Highlights
 
 ### 🔥 Core Competencies
-<div align="center">
 
 | Skill | Level | Description |
 |:------|:-----:|:------------|
@@ -100,10 +93,7 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 | 🔄 **Version Control** | ![Advanced](https://img.shields.io/badge/Level-Advanced-green?style=flat-square) | Expert Git workflow and collaboration |
 | 🗄️ **Database Design** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow?style=flat-square) | Data modeling and query optimization |
 
-</div>
-
 ### 💼 Project Categories
-<div align="center">
 
 | Technology | Proficiency | Projects |
 |:----------:|:-----------:|:--------:|
@@ -113,7 +103,6 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 | 🎨 **UI/UX Design** | ![45%](https://progress-bar.dev/45?color=f39c12&width=200) | 4+ Projects |
 | 🔧 **DevOps & Tools** | ![55%](https://progress-bar.dev/55?color=2ecc71&width=200) | 5+ Projects |
 
-</div>
 
 ### 🏆 Key Achievements
 - 🎓 **Self-taught Developer**: Mastered multiple programming languages independently
