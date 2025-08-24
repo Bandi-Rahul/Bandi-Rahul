@@ -1,5 +1,6 @@
 ## 🚀 About Me
-Hi, I'm Rahul - a **software technician**, **curious engineer**, and **lifelong tinkerer**.
+Hi, I'm Rahul Bandi - a **software technician**, **curious engineer**, and **lifelong tinkerer**.
+
 
 I currently work in the **Build, Test, and Release (BTR)** team at **National Instruments** (now part of **Emerson**), where I ensure that driver releases run smoothly and reliably. Whether it's improving CI workflows, triaging ATS events, or deep diving into flaky test failures, I love solving problems that make life easier for teams downstream.
 
@@ -9,15 +10,19 @@ I currently work in the **Build, Test, and Release (BTR)** team at **National In
 </div>
 
 <details>
+<summary>🐍 Contribution Snake Animation</summary>
+
+> **Note**: Snake animation will be generated automatically once GitHub Actions workflow is set up.
 
 ![Snake Animation](https://raw.githubusercontent.com/Bandi-Rahul/Bandi-Rahul/output/github-contribution-grid-snake.svg)
 
+</details>
+
 ## 🔥 Streak Stats
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Streak"/>
-
 ## 💻 Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandi-Rahul&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
+  
 ## �‍💻 Quick Overview
 ```
 🎯 Specialty: Full-Stack Web Development & Data Analysis
@@ -31,12 +36,13 @@ I currently work in the **Build, Test, and Release (BTR)** team at **National In
 
 ## �🛠️ Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Python Libraries:** NumPy, Pandas, Flask, Django
+- **Automation & Testing:** Selenium, pytest, Test Automation Frameworks
+- **CI/CD & DevOps:** Jenkins, Git, Release Engineering, Build Systems
+- **Python Tools:** NumPy, Pandas, Flask, Automation Scripts
 - **Frontend:** React, Node.js, Bootstrap
-- **Backend:** Python, Express.js
 - **Database:** MySQL, MongoDB
-- **Tools:** Git, VS Code, GitHub
-- **Design:** Responsive Web Design, UI/UX
+- **Tools:** Git, VS Code, GitHub, ATS (Automated Test Systems)
+- **Hardware & IoT:** CanSat Development, IoT Systems, Embedded Programming
 
 ## 🐍 Python Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,11 +62,6 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 🏅 GitHub Achievements  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
 </div>
 
 > **� What's the difference?**
