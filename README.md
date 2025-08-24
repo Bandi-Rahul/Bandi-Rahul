@@ -1,7 +1,19 @@
 # Hi there, I'm Rahul Bandi! 👋
 
 ## 🚀 About Me
-I'm a passionate developer with expertise in Python, JavaScript, HTML, and CSS. I love creating innovative solutions and building beautiful, functional web applications.
+I'm a passi> **🔍 What's the difference?**
+> - **🏆 Trophies**: Comprehensive achievement display with frames and backgrounds
+> - **🏅 Achievements**: Cleaner, frameless display focusing on specific accomplishments
+
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Streak"/>
+</div>
+
+## 💻 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandi-Rahul&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+</div>te developer with expertise in Python, JavaScript, HTML, and CSS. I love creating innovative solutions and building beautiful, functional web applications.
 
 ## �‍💻 Quick Overview
 ```
@@ -13,7 +25,18 @@ I'm a passionate developer with expertise in Python, JavaScript, HTML, and CSS. 
 ```
 
 ## 📈 GitHub Activity Summary
-![](https://raw.githubusercontent.com/Bandi-Rahul/Bandi-Rahul/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bandi-Rahul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+<details>
+<summary>🐍 Contribution Snake Animation</summary>
+
+> **Note**: Snake animation will be generated automatically once GitHub Actions workflow is set up.
+
+![Snake Animation](https://raw.githubusercontent.com/Bandi-Rahul/Bandi-Rahul/output/github-contribution-grid-snake.svg)
+
+</details>
 
 ## �🛠️ Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS, SQL
@@ -40,19 +63,18 @@ Check out my portfolio: [bandi-rahul.github.io/portfolio](https://bandi-rahul.gi
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandi-Rahul&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&custom_title=Rahul's%20GitHub%20Stats&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=tokyonight&no-frame=true&column=7)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bandi-Rahul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+## 🏅 GitHub Achievements  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
+</div>
 
-## 📅 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bandi-Rahul&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae)
-
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandi-Rahul&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=8&cache_seconds=1800)
-
-## 🏅 GitHub Achievements
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Bandi-Rahul&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+> **� What's the difference?**
+> - **🏆 Trophies**: Comprehensive achievement display with frames and backgrounds
+> - **🏅 Achievements**: Cleaner, frameless display focusing on specific accomplishments
 
 ## 📊 Detailed Analytics
 <details>
